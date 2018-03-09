@@ -1,0 +1,15 @@
+de/uniks/alexa/smartkitchencube/lambda/TestUtils$DateTimeSerializer.class
+de/uniks/alexa/smartkitchencube/lambda/TestUtils$DynamodbEventMixin$RecordMixin.class
+de/uniks/alexa/smartkitchencube/lambda/TestUtils$TestJacksonMapperModule.class
+de/uniks/alexa/smartkitchencube/lambda/TestUtils$UpperCaseRecordsPropertyNamingStrategy.class
+de/uniks/alexa/smartkitchencube/lambda/TestUtils$DynamodbEventMixin$StreamRecordMixin.class
+de/uniks/alexa/smartkitchencube/lambda/TestUtils$DateTimeDeserializer.class
+de/uniks/alexa/smartkitchencube/lambda/DiscoveryTest.class
+de/uniks/alexa/smartkitchencube/lambda/TestContext.class
+de/uniks/alexa/smartkitchencube/lambda/TestUtils.class
+de/uniks/alexa/smartkitchencube/lambda/TestContext$TestLogger.class
+de/uniks/alexa/smartkitchencube/lambda/AlexaSmartKitchenCubeLambdaTest.class
+de/uniks/alexa/smartkitchencube/lambda/TestContext$1.class
+de/uniks/alexa/smartkitchencube/lambda/TestUtils$DynamodbEventMixin$AttributeValueMixIn.class
+de/uniks/alexa/smartkitchencube/lambda/TestUtils$DynamodbEventMixin.class
+de/uniks/alexa/smartkitchencube/lambda/TestUtils$1.class
